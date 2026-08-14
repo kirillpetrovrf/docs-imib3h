@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-rrdx2m.cuansalam.sbs/sitemap.xml
